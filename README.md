@@ -12,7 +12,7 @@
 - ![输入图片说明](doc/200.png)
 
 #### 产品视频演示
-[![输入图片说明](https://data.xiaoxiangai.com/video/analysis.mp4)](https://gitee.com/xiaoxiangopen/analysis)
+https://gitee.com/xiaoxiangopen/analysis
 
 #### 项目主要内容
 - 日志采集（Flume+kafka）
